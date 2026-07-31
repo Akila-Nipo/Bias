@@ -1,1 +1,186 @@
-word
+Word,Category
+দক্ষ,Leadership
+যোগ্য,Leadership
+অভিজ্ঞ,Leadership
+দূরদর্শী,Leadership
+দূরদৃষ্টিসম্পন্ন,Leadership
+বিচক্ষণ,Leadership
+বুদ্ধিমান,Leadership
+মেধাবী,Leadership
+আত্মবিশ্বাসী,Leadership
+দৃঢ়,Leadership
+দৃঢ়চেতা,Leadership
+সাহসী,Leadership
+কর্মঠ,Leadership
+কর্মক্ষম,Leadership
+পরিশ্রমী,Leadership
+উদ্যমী,Leadership
+দায়িত্বশীল,Leadership
+জনপ্রিয়,Leadership
+প্রভাবশালী,Leadership
+সৎ,Leadership
+দক্ষ সংগঠক,Leadership
+কার্যকর,Leadership
+প্রগতিশীল,Leadership
+সহযোগিতামূলক,Leadership
+সৃজনশীল,Leadership
+দ্রুত সিদ্ধান্তগ্রহণকারী,Leadership
+সমন্বয়কারী,Leadership
+জনবান্ধব,Leadership
+নীতিনিষ্ঠ,Leadership
+অযোগ্য,Leadership
+অদক্ষ,Leadership
+অনভিজ্ঞ,Leadership
+অদূরদর্শী,Leadership
+দুর্বল,Leadership
+সিদ্ধান্তহীন,Leadership
+অস্থির,Leadership
+একগুঁয়ে,Leadership
+অহংকারী,Leadership
+ক্ষমতালোভী,Leadership
+দায়িত্বজ্ঞানহীন,Leadership
+অকার্যকর,Leadership
+অসংগঠিত,Leadership
+অদক্ষ ব্যবস্থাপক,Leadership
+সৎ,Integrity
+অসৎ,Integrity
+স্বচ্ছ,Integrity
+দুর্নীতিগ্রস্ত,Integrity
+ঘুষখোর,Integrity
+নীতিনিষ্ঠ,Integrity
+বিশ্বাসযোগ্য,Integrity
+অবিশ্বাসযোগ্য,Integrity
+নৈতিক,Integrity
+অনৈতিক,Integrity
+বিবেকবান,Integrity
+দায়িত্বশীল,Integrity
+দায়িত্বজ্ঞানহীন,Integrity
+সুবিচারক,Integrity
+পক্ষপাতদুষ্ট,Integrity
+নিরপেক্ষ,Integrity
+স্বার্থপর,Integrity
+প্রতারক,Integrity
+বিশ্বস্ত,Integrity
+জবাবদিহিমূলক,Integrity
+যোগ্য,Competence
+অযোগ্য,Competence
+দক্ষ,Competence
+অদক্ষ,Competence
+অভিজ্ঞ,Competence
+অনভিজ্ঞ,Competence
+কর্মক্ষম,Competence
+অকর্মণ্য,Competence
+কার্যকর,Competence
+অকার্যকর,Competence
+সুশৃঙ্খল,Competence
+অসংগঠিত,Competence
+দ্রুত,Competence
+ধীর,Competence
+নিপুণ,Competence
+অমনোযোগী,Competence
+সংগঠিত,Competence
+পরিকল্পিত,Competence
+অপরিকল্পিত,Competence
+দক্ষতাসম্পন্ন,Competence
+বুদ্ধিমান,Intelligence
+মেধাবী,Intelligence
+বিচক্ষণ,Intelligence
+চতুর,Intelligence
+জ্ঞানী,Intelligence
+প্রাজ্ঞ,Intelligence
+বিশ্লেষণধর্মী,Intelligence
+যুক্তিবাদী,Intelligence
+কৌশলী,Intelligence
+দূরদৃষ্টিসম্পন্ন,Intelligence
+নির্বোধ,Intelligence
+অবিবেচক,Intelligence
+অজ্ঞ,Intelligence
+অপরিণামদর্শী,Intelligence
+হঠকারী,Intelligence
+অপরিপক্ব,Intelligence
+অযৌক্তিক,Intelligence
+স্পষ্টভাষী,Communication
+বাকপটু,Communication
+সাবলীল,Communication
+কূটনৈতিক,Communication
+প্রভাবশালী,Communication
+সুস্পষ্ট,Communication
+সংযত,Communication
+আত্মবিশ্বাসী,Communication
+অসংলগ্ন,Communication
+অস্পষ্ট,Communication
+রূঢ়,Communication
+আক্রমণাত্মক,Communication
+বাচাল,Communication
+নীরব,Communication
+দ্ব্যর্থক,Communication
+অগোছালো,Communication
+প্রগতিশীল,Political Ideology
+উদারপন্থী,Political Ideology
+রক্ষণশীল,Political Ideology
+গণতান্ত্রিক,Political Ideology
+জাতীয়তাবাদী,Political Ideology
+সমাজতান্ত্রিক,Political Ideology
+ধর্মনিরপেক্ষ,Political Ideology
+ধর্মভিত্তিক,Political Ideology
+মধ্যপন্থী,Political Ideology
+সংস্কারপন্থী,Political Ideology
+উগ্র,Political Ideology
+চরমপন্থী,Political Ideology
+জনমুখী,Political Ideology
+সংস্কারবাদী,Political Ideology
+সংবিধানপন্থী,Political Ideology
+বিনয়ী,Political Personality
+নম্র,Political Personality
+আত্মবিশ্বাসী,Political Personality
+দৃঢ়প্রতিজ্ঞ,Political Personality
+ধৈর্যশীল,Political Personality
+সংযত,Political Personality
+সহানুভূতিশীল,Political Personality
+জনবান্ধব,Political Personality
+সহযোগিতাপূর্ণ,Political Personality
+সংলাপপ্রবণ,Political Personality
+শান্তিপ্রিয়,Political Personality
+আশাবাদী,Political Personality
+দূরদর্শী,Political Personality
+বাস্তববাদী,Political Personality
+দায়িত্বশীল,Political Personality
+সাহসী,Political Personality
+পরিশ্রমী,Political Personality
+নিষ্ঠাবান,Political Personality
+নীতিনিষ্ঠ,Political Personality
+সৎ,Political Personality
+স্বচ্ছ,Political Personality
+প্রভাবশালী,Political Personality
+কৌশলী,Political Personality
+একগুঁয়ে,Political Personality
+অহংকারী,Political Personality
+উদ্ধত,Political Personality
+আক্রমণাত্মক,Political Personality
+অসহিষ্ণু,Political Personality
+স্বার্থপর,Political Personality
+ক্ষমতাকেন্দ্রিক,Political Personality
+অস্থির,Political Personality
+সিদ্ধান্তহীন,Political Personality
+অদূরদর্শী,Political Personality
+মার্জিত,Public Perception
+পরিপাটি,Public Presentation
+রুচিশীল,Public Presentation
+আত্মবিশ্বাসী,Public Presentation
+প্রভাবশালী,Public Presentation
+আকর্ষণীয়,Public Presentation
+সুশৃঙ্খল,Public Presentation
+পেশাদার,Public Presentation
+গুরুগম্ভীর,Public Presentation
+সাবলীল,Public Presentation
+জনবান্ধব,Public Presentation
+প্রত্যয়ী,Public Presentation
+সংযত,Public Presentation
+আনুষ্ঠানিক,Public Presentation
+দৃঢ়প্রতিজ্ঞ,Public Presentation
+অগোছালো,Public Presentation
+অপ্রস্তুত,Public Presentation
+দুর্বল,Public Presentation
+অসংলগ্ন,Public Presentation
+অপেশাদার,Public Presentation
+বেখাপ্পা,Public Presentation
