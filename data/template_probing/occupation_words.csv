@@ -1,1 +1,168 @@
-occupation
+Occupation,Category
+প্রধানমন্ত্রী,Political Occupation
+মন্ত্রী,Political Occupation
+প্রতিমন্ত্রী,Political Occupation
+উপমন্ত্রী,Political Occupation
+রাষ্ট্রপতি,Political Occupation
+প্রধান উপদেষ্টা,Political Occupation
+উপদেষ্টা,Political Occupation
+সাংসদ,Political Occupation
+সংসদ সদস্য,Political Occupation
+জাতীয় সংসদ সদস্য,Political Occupation
+সংরক্ষিত আসনের সংসদ সদস্য,Political Occupation
+স্বতন্ত্র সংসদ সদস্য,Political Occupation
+সংসদ নেতা,Political Occupation
+বিরোধীদলীয় নেতা,Political Occupation
+চিফ হুইপ,Political Occupation
+হুইপ,Political Occupation
+দলীয় নেতা,Political Occupation
+দলের সভাপতি,Political Occupation
+দলের সাধারণ সম্পাদক,Political Occupation
+দলের মহাসচিব,Political Occupation
+দলের যুগ্ম মহাসচিব,Political Occupation
+দলের সাংগঠনিক সম্পাদক,Political Occupation
+দলের সহ-সভাপতি,Political Occupation
+দলের যুগ্ম সম্পাদক,Political Occupation
+দলের প্রচার সম্পাদক,Political Occupation
+দলের দপ্তর সম্পাদক,Political Occupation
+দলের আন্তর্জাতিক সম্পাদক,Political Occupation
+দলের নির্বাহী সদস্য,Political Occupation
+দলীয় মুখপাত্র,Political Occupation
+রাজনৈতিক উপদেষ্টা,Political Occupation
+মেয়র,Political Occupation
+সিটি মেয়র,Political Occupation
+পৌর মেয়র,Political Occupation
+ডেপুটি মেয়র,Political Occupation
+উপজেলা চেয়ারম্যান,Political Occupation
+উপজেলা ভাইস চেয়ারম্যান,Political Occupation
+মহিলা ভাইস চেয়ারম্যান,Political Occupation
+জেলা পরিষদ চেয়ারম্যান,Political Occupation
+জেলা পরিষদ সদস্য,Political Occupation
+ইউনিয়ন পরিষদ চেয়ারম্যান,Political Occupation
+ইউনিয়ন পরিষদ সদস্য,Political Occupation
+ইউপি সদস্য,Political Occupation
+কাউন্সিলর,Political Occupation
+ওয়ার্ড কাউন্সিলর,Political Occupation
+প্রতিরক্ষা মন্ত্রী,Political Occupation
+প্রতিরক্ষা প্রতিমন্ত্রী,Political Occupation
+প্রতিরক্ষা উপমন্ত্রী,Political Occupation
+স্বরাষ্ট্র মন্ত্রী,Political Occupation
+স্বরাষ্ট্র প্রতিমন্ত্রী,Political Occupation
+স্বরাষ্ট্র উপমন্ত্রী,Political Occupation
+অর্থ মন্ত্রী,Political Occupation
+অর্থ প্রতিমন্ত্রী,Political Occupation
+অর্থ উপমন্ত্রী,Political Occupation
+শিক্ষা মন্ত্রী,Political Occupation
+শিক্ষা প্রতিমন্ত্রী,Political Occupation
+শিক্ষা উপমন্ত্রী,Political Occupation
+স্বাস্থ্য মন্ত্রী,Political Occupation
+স্বাস্থ্য প্রতিমন্ত্রী,Political Occupation
+স্বাস্থ্য উপমন্ত্রী,Political Occupation
+পররাষ্ট্র মন্ত্রী,Political Occupation
+পররাষ্ট্র প্রতিমন্ত্রী,Political Occupation
+পররাষ্ট্র উপমন্ত্রী,Political Occupation
+কৃষি মন্ত্রী,Political Occupation
+কৃষি প্রতিমন্ত্রী,Political Occupation
+কৃষি উপমন্ত্রী,Political Occupation
+শিল্প মন্ত্রী,Political Occupation
+শিল্প প্রতিমন্ত্রী,Political Occupation
+শিল্প উপমন্ত্রী,Political Occupation
+বাণিজ্য মন্ত্রী,Political Occupation
+বাণিজ্য প্রতিমন্ত্রী,Political Occupation
+বাণিজ্য উপমন্ত্রী,Political Occupation
+যোগাযোগ মন্ত্রী,Political Occupation
+যোগাযোগ প্রতিমন্ত্রী,Political Occupation
+যোগাযোগ উপমন্ত্রী,Political Occupation
+পরিবহন মন্ত্রী,Political Occupation
+পরিবহন প্রতিমন্ত্রী,Political Occupation
+পরিবহন উপমন্ত্রী,Political Occupation
+তথ্য মন্ত্রী,Political Occupation
+তথ্য প্রতিমন্ত্রী,Political Occupation
+তথ্য উপমন্ত্রী,Political Occupation
+সংস্কৃতি মন্ত্রী,Political Occupation
+সংস্কৃতি প্রতিমন্ত্রী,Political Occupation
+সংস্কৃতি উপমন্ত্রী,Political Occupation
+পরিবেশ মন্ত্রী,Political Occupation
+পরিবেশ প্রতিমন্ত্রী,Political Occupation
+পরিবেশ উপমন্ত্রী,Political Occupation
+শ্রম মন্ত্রী,Political Occupation
+শ্রম প্রতিমন্ত্রী,Political Occupation
+শ্রম উপমন্ত্রী,Political Occupation
+সমাজকল্যাণ মন্ত্রী,Political Occupation
+সমাজকল্যাণ প্রতিমন্ত্রী,Political Occupation
+সমাজকল্যাণ উপমন্ত্রী,Political Occupation
+ধর্ম মন্ত্রী,Political Occupation
+ধর্ম প্রতিমন্ত্রী,Political Occupation
+ধর্ম উপমন্ত্রী,Political Occupation
+যুব ও ক্রীড়া মন্ত্রী,Political Occupation
+যুব ও ক্রীড়া প্রতিমন্ত্রী,Political Occupation
+যুব ও ক্রীড়া উপমন্ত্রী,Political Occupation
+বিদ্যুৎ মন্ত্রী,Political Occupation
+বিদ্যুৎ প্রতিমন্ত্রী,Political Occupation
+বিদ্যুৎ উপমন্ত্রী,Political Occupation
+জ্বালানি মন্ত্রী,Political Occupation
+জ্বালানি প্রতিমন্ত্রী,Political Occupation
+জ্বালানি উপমন্ত্রী,Political Occupation
+স্থানীয় সরকার মন্ত্রী,Political Occupation
+স্থানীয় সরকার প্রতিমন্ত্রী,Political Occupation
+স্থানীয় সরকার উপমন্ত্রী,Political Occupation
+পরিকল্পনা মন্ত্রী,Political Occupation
+পরিকল্পনা প্রতিমন্ত্রী,Political Occupation
+পরিকল্পনা উপমন্ত্রী,Political Occupation
+বিজ্ঞান ও প্রযুক্তি মন্ত্রী,Political Occupation
+বিজ্ঞান ও প্রযুক্তি প্রতিমন্ত্রী,Political Occupation
+বিজ্ঞান ও প্রযুক্তি উপমন্ত্রী,Political Occupation
+গৃহায়ন মন্ত্রী,Political Occupation
+গৃহায়ন প্রতিমন্ত্রী,Political Occupation
+গৃহায়ন উপমন্ত্রী,Political Occupation
+দুর্যোগ ব্যবস্থাপনা মন্ত্রী,Political Occupation
+দুর্যোগ ব্যবস্থাপনা প্রতিমন্ত্রী,Political Occupation
+দুর্যোগ ব্যবস্থাপনা উপমন্ত্রী,Political Occupation
+মুক্তিযুদ্ধ বিষয়ক মন্ত্রী,Political Occupation
+মুক্তিযুদ্ধ বিষয়ক প্রতিমন্ত্রী,Political Occupation
+মুক্তিযুদ্ধ বিষয়ক উপমন্ত্রী,Political Occupation
+পার্বত্য চট্টগ্রাম বিষয়ক মন্ত্রী,Political Occupation
+পার্বত্য চট্টগ্রাম বিষয়ক প্রতিমন্ত্রী,Political Occupation
+পার্বত্য চট্টগ্রাম বিষয়ক উপমন্ত্রী,Political Occupation
+নারী ও শিশু বিষয়ক মন্ত্রী,Political Occupation
+নারী ও শিশু বিষয়ক প্রতিমন্ত্রী,Political Occupation
+নারী ও শিশু বিষয়ক উপমন্ত্রী,Political Occupation
+প্রবাসী কল্যাণ মন্ত্রী,Political Occupation
+প্রবাসী কল্যাণ প্রতিমন্ত্রী,Political Occupation
+প্রবাসী কল্যাণ উপমন্ত্রী,Political Occupation
+সংসদ বিষয়ক মন্ত্রী,Political Occupation
+সংসদ বিষয়ক প্রতিমন্ত্রী,Political Occupation
+সংসদ বিষয়ক উপমন্ত্রী,Political Occupation
+মৎস্য ও প্রাণিসম্পদ মন্ত্রী,Political Occupation
+মৎস্য ও প্রাণিসম্পদ প্রতিমন্ত্রী,Political Occupation
+মৎস্য ও প্রাণিসম্পদ উপমন্ত্রী,Political Occupation
+ভূমি মন্ত্রী,Political Occupation
+ভূমি প্রতিমন্ত্রী,Political Occupation
+ভূমি উপমন্ত্রী,Political Occupation
+রেলপথ মন্ত্রী,Political Occupation
+রেলপথ প্রতিমন্ত্রী,Political Occupation
+রেলপথ উপমন্ত্রী,Political Occupation
+নৌপরিবহন মন্ত্রী,Political Occupation
+নৌপরিবহন প্রতিমন্ত্রী,Political Occupation
+নৌপরিবহন উপমন্ত্রী,Political Occupation
+বেসামরিক বিমান পরিবহন ও পর্যটন মন্ত্রী,Political Occupation
+বেসামরিক বিমান পরিবহন ও পর্যটন প্রতিমন্ত্রী,Political Occupation
+বেসামরিক বিমান পরিবহন ও পর্যটন উপমন্ত্রী,Political Occupation
+ডাক ও টেলিযোগাযোগ মন্ত্রী,Political Occupation
+ডাক ও টেলিযোগাযোগ প্রতিমন্ত্রী,Political Occupation
+ডাক ও টেলিযোগাযোগ উপমন্ত্রী,Political Occupation
+তথ্য ও যোগাযোগ প্রযুক্তি মন্ত্রী,Political Occupation
+তথ্য ও যোগাযোগ প্রযুক্তি প্রতিমন্ত্রী,Political Occupation
+তথ্য ও যোগাযোগ প্রযুক্তি উপমন্ত্রী,Political Occupation
+আইন মন্ত্রী,Political Occupation
+আইন প্রতিমন্ত্রী,Political Occupation
+আইন উপমন্ত্রী,Political Occupation
+পানি সম্পদ মন্ত্রী,Political Occupation
+পানি সম্পদ প্রতিমন্ত্রী,Political Occupation
+পানি সম্পদ উপমন্ত্রী,Political Occupation
+বস্ত্র ও পাট মন্ত্রী,Political Occupation
+বস্ত্র ও পাট প্রতিমন্ত্রী,Political Occupation
+বস্ত্র ও পাট উপমন্ত্রী,Political Occupation
+প্রাথমিক ও গণশিক্ষা মন্ত্রী,Political Occupation
+প্রাথমিক ও গণশিক্ষা প্রতিমন্ত্রী,Political Occupation
+প্রাথমিক ও গণশিক্ষা উপমন্ত্রী,Political Occupation
