@@ -1,0 +1,47 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local secrets and env vars
+.env
+.env.*
+*.local
+
+# Generated experiment artifacts (keep folder structure)
+results/figures/*
+results/tables/*
+results/metrics/*
+results/statistics/*
+results/combined_analysis/*
+
+# Model outputs are typically reproducible artifacts
+model_outputs/template_probing/*.csv
+model_outputs/natural_probing/*.csv
